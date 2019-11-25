@@ -3,5 +3,5 @@
 This project consist of WeAPI to calculate aggregate values from LP and TOU file.
 Input file should be placed in DataFile folder.
 
-Test Methos can be used to test functionality.
+Test Method can be used to test functionality.
 
